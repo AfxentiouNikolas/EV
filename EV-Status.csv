@@ -1,0 +1,11 @@
+﻿Timestamp,ChargingPointID,Location,Status,ChargingSpeed,EnergyDelivered,ChargingTime,Cost,ConnectorType,Network,UserID,VehicleType
+2023-07-11 08:00:00,CP001,Downtown,Available,50,0,0,0,Type 2,Network A,,
+2023-07-11 08:10:00,CP002,Suburb,Occupied,22,7.2,60,5,Type 2,Network B,User123,Tesla Model 3
+2023-07-11 08:20:00,CP003,Highway,Out of Service,150,0,0,0,CCS,Network C,,
+2023-07-11 08:30:00,CP004,Downtown,Occupied,50,12.5,30,10,CHAdeMO,Network A,User456,Nissan Leaf
+2023-07-11 08:40:00,CP005,Airport,Available,22,0,0,0,Type 2,Network B,,
+2023-07-11 08:50:00,CP001,Downtown,Occupied,50,10,25,8,Type 2,Network A,User789,BMW i3
+2023-07-11 09:00:00,CP002,Suburb,Available,22,0,0,0,Type 2,Network B,,
+2023-07-11 09:10:00,CP003,Highway,Available,150,0,0,0,CCS,Network C,,
+2023-07-11 09:20:00,CP004,Downtown,Available,50,0,0,0,CHAdeMO,Network A,,
+2023-07-11 09:30:00,CP005,Airport,Occupied,22,6.6,30,4,Type 2,Network B,User101,Chevy Bolt
